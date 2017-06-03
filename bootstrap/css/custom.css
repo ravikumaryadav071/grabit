@@ -1,0 +1,30 @@
+.checkborder{
+	border-width: 1px;
+	border-style: solid;
+}
+
+body a:hover{
+	text-decoration: none;
+}
+
+#item-container{
+
+	padding: none;
+	margin: 1px;
+
+}
+
+#display-item{
+
+	display: block;
+ 	width: 100% \9;
+ 	max-width: 100%;
+ 	height: 250px;
+}
+
+.thumbnail:hover,
+.thumbnail:focus,
+.thumbnail.active {
+  border-color: #056f00;
+  box-shadow: 1px 1px 9px #01579b;
+}
